@@ -1,8 +1,8 @@
 # Simple Discord Verification Bot
 
-Originally created for the Domaincord Discord server.
+Originally created for the Domaincord Discord server and adapted for TerrestrialMC.
 
-https://discord.gg/R6wTYQ9
+https://discord.gg/GPCHYE7Vhq
 
 ## Usage
 I'm assuming you already know how to get a bot token and add the bot to your server.
